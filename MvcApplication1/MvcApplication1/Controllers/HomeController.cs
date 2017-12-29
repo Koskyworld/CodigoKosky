@@ -66,7 +66,8 @@ namespace MvcApplication1.Controllers
                 new Producto {Codigo ="4",Descripcion ="ProductoD",Precio ="400", Categoria ="2"},
                  new Producto {Codigo ="5",Descripcion ="ProductoE",Precio ="700", Categoria ="2"},
                 new Producto {Codigo ="6", Descripcion ="ProductoF",Precio ="800", Categoria ="1"},
-                new Producto {Codigo ="7",Descripcion ="ProductoG",Precio ="900", Categoria ="2"}
+                new Producto {Codigo ="7",Descripcion ="ProductoG",Precio ="900", Categoria ="2"},
+                new Producto {Codigo ="8",Descripcion ="ProductoH",Precio ="230", Categoria ="2"}
             };
           return Productos;
         }
